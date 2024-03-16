@@ -11,6 +11,12 @@
 
 ****HERE ARE THE SCREENSHOTS OF THE PROJECT****
 
+**HOME PAGE**
 <img width="1435" alt="Screenshot 2024-03-16 at 2 02 56 PM" src="https://github.com/Crypto-Nikhil/Brain-Guard/assets/76028179/546d1ade-d31d-4162-9b36-75be535ee97b">
-<img width="1437" alt="Screenshot 2024-03-16 at 2 01 10 PM" src="https://github.com/Crypto-Nikhil/Brain-Guard/assets/76028179/d247dbb5-df52-45c9-9969-e76a4b92982a">
+
+**SELECTING MRI IMAGES**
 <img width="1440" alt="Screenshot 2024-03-16 at 2 00 59 PM" src="https://github.com/Crypto-Nikhil/Brain-Guard/assets/76028179/89f0c392-df5f-42fd-a8ef-e83c5763df44">
+
+**PREDICTION PAGE**
+<img width="1437" alt="Screenshot 2024-03-16 at 2 01 10 PM" src="https://github.com/Crypto-Nikhil/Brain-Guard/assets/76028179/d247dbb5-df52-45c9-9969-e76a4b92982a">
+
